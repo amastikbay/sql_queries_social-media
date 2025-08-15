@@ -47,7 +47,4 @@ The analysis is based on the **Stack Overflow** schema, which contains tables su
 
 Each query is fully **commented** to explain its purpose and logic.
 
----
-
-## 📁 File Structure
 
