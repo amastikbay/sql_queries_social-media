@@ -18,7 +18,7 @@ The analysis is based on the **Stack Overflow** schema, which contains tables su
 - `badges` – User badges earned over time.
 - `post_types` – Types of posts (questions or answers).
 
-![Stack Overflow Analysis](stack_overflow.png)
+<img width="2880" height="2066" alt="Image" src="https://github.com/user-attachments/assets/7527f54c-b377-4b60-9175-6fba04a6ef31" />
 
 ---
 
